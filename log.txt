@@ -1,0 +1,145 @@
+Username: @Kapi644vipbot
+Target: 52.140.43.20
+Port: 15537
+Time: 670
+
+Username: @Kapi644vipbot
+Target: /add
+Port: 1946165332
+Time: 9999
+
+Username: @Kapi644vipbot
+Target: 20.235.51.89
+Port: 29619
+Time: 340
+
+Username: @Kapi644vipbot
+Target: 52.140.37.85
+Port: 22939
+Time: 300
+
+Username: @Kapi644vipbot
+Target: 52.140.37.85
+Port: 22825
+Time: 300
+
+Username: @Kapi644vipbot
+Target: 20.219.6.46
+Port: 28248
+Time: 450
+
+Username: @Kapi644vipbot
+Target: 20.198.72.178
+Port: 29641
+Time: 430
+
+Username: @Kapi644vipbot
+Target: 20.198.108.71
+Port: 12740
+Time: 430
+
+Username: @Kapi644vipbot
+Target: 20.198.108.71
+Port: 12740
+Time: 430
+
+Username: @Kapi644vipbot
+Target: 20.198.108.71
+Port: 12740
+Time: 430
+
+Username: @Kapi644vipbot
+Target: 20.204.16.48
+Port: 22604
+Time: 10
+
+Username: @Kapi644vipbot
+Target: 20.204.16.48
+Port: 22604
+Time: 230
+
+Username: @Kapi644vipbot
+Target: 20.204.16.48
+Port: 22604
+Time: 120
+
+Username: @Kapi644vipbot
+Target: 20.198.78.217
+Port: 13758
+Time: 30
+
+Username: @Kapi644vipbot
+Target: 20.198.78.217
+Port: 13758
+Time: 50
+
+Username: @Kapi644vipbot
+Target: 20.198.78.217
+Port: 13758
+Time: 40
+
+Username: @Kapi644vipbot
+Target: 20.198.78.217
+Port: 13758
+Time: 50
+
+Username: @Kapi644vipbot
+Target: 20.198.78.217
+Port: 13758
+Time: 20
+
+Username: @Kapi644vipbot
+Target: 20.235.95.214
+Port: 14565
+Time: 350
+
+Username: @Kapi644vipbot
+Target: 20.235.14.171
+Port: 24559
+Time: 120
+
+Username: @Kapi644vipbot
+Target: 20.235.14.171
+Port: 24559
+Time: 120
+
+Username: @Kapi644vipbot
+Target: 20.204.19.15
+Port: 10696
+Time: 110
+
+Username: @Kapi644vipbot
+Target: 20.204.19.15
+Port: 10696
+Time: 60
+
+Username: @Kapi644vipbot
+Target: 20.204.19.15
+Port: 10696
+Time: 50
+
+Username: @Kapi644vipbot
+Target: 20.204.19.15
+Port: 10696
+Time: 50
+
+Username: @Kapi644vipbot
+Target: 20.204.19.15
+Port: 10696
+Time: 50
+
+Username: @Kapi644vipbot
+Target: 20.204.19.15
+Port: 10696
+Time: 30
+
+Username: @Kapi644vipbot
+Target: 20.204.17.4
+Port: 19098
+Time: 230
+
+Username: @Kapi644vipbot
+Target: 20.204.17.4
+Port: 19098
+Time: 230
+
