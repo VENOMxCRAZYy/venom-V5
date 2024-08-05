@@ -153,7 +153,7 @@ def add_user(message):
                 user_bgmi_path = f'bgmi{user_id}'
                 user_bgmi2_path = f'bgmi2{user_id}'
                 shutil.copy(ORIGINAL_BGMI_PATH, user_bgmi_path)
-                shutil.copy(ORIGINAL_bgmi2_PATH, user_bgmi2_path)
+                shutil.copy(ORIGINAL_BGMI2_PATH, user_bgmi2_path)
 
                 response = f"User {user_id} added successfully for {duration} days by {admin_username} 👍. Balance deducted: {cost} Rs. Remaining balance: {admin_balances[str(message.chat.id)]} Rs."
             else:
